@@ -10,3 +10,4 @@ pandas
 numpy
 plotly
 extra-streamlit-components
+openpyxl
