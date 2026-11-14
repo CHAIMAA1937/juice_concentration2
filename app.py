@@ -3,6 +3,9 @@ import streamlit as st
 import pandas as pd
 from io import BytesIO
 
+from backend.streamlit_server import start_api_server
+
+start_api_server()
 from frontend.api_client import (
     register_user,
     login_user,
