@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pwdlib[argon2]
+python-multipart
+email-validator
+streamlit
+requests
+pandas
+numpy
+plotly
+extra-streamlit-components

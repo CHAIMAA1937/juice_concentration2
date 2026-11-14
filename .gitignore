@@ -1,0 +1,27 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Base de données
+*.db
+*.sqlite3
+
+# Secrets et variables d'environnement
+.env
+.env.*
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+reset_password.py
